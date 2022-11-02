@@ -1,4 +1,6 @@
 ## Klandestin 6.0.0 Kernel Config
+![](kernel.png)
+
 Klandestin adalah patchset kernel pribadi yang sudah diatur seoptimalisasi mungkin.
 - Clang Full Link Time Optimization
 - -O3 flag
@@ -11,6 +13,8 @@ Klandestin adalah patchset kernel pribadi yang sudah diatur seoptimalisasi mungk
 - -Ck patchset
 - THP Shrinker
 - Clear Linux
+
+**Dimohon memasang Clang**
 
 ### Unduh Kode Sumber Kernel Linux
 ```
